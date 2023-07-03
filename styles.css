@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+span{
+	font-size:14px;
+}
+.try{
+	padding-left:215px;
+	padding-right:215px;
+}
+body{
+	background:#F6F6F6;
+}
+.prodcuts{
+	background:#FFFFFF;
+}
+.summary{
+	background:#F7FBFF
+}
+h1, h2, h3, h4, h5, h6{
+	color: #3b99e0 !important;
+}
